@@ -76,8 +76,3 @@ The analysis provides insights into:
 
 **SQL • MySQL • Data Cleaning • Data Standardization • Exploratory Data Analysis • CTEs • Window Functions • Data Analysis • Business Analysis**
 
-## 👨‍💻 Author
-
-**Vigneshwar Shanmugam**
-
-Aspiring Data Analyst | Power BI | SQL | Excel
